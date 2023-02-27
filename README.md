@@ -18,12 +18,8 @@
 
 <h3 align="left">📊 Github Stats</h2>
 
-<div>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Icastroo&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Icastroo&theme=dark)](https://git.io/streak-stats)
+| <a href="https://github.com/Icastroo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Icastroo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Icastroo's github stats" /></a> | <a href="https://github.com/Icastroo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icastroo&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-</div>
 <br>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
