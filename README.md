@@ -1,4 +1,4 @@
-<img src="https://github.com/Icastroo/Icastroo/blob/main/Banner-Github.jpg" alt="banner">
+<img src="https://github.com/Icastroo/Icastroo/blob/main/Banner-Github.png" alt="banner">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icastroo&label=Profile%20views&color=0e75b6&style=flat" alt="icastroo" /> </p>
 
