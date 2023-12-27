@@ -1,6 +1,6 @@
-<img src="https://github.com/Icastroo/Icastroo/blob/main/Banner-Github.jpg" alt="banner">
+<img src="https://github.com/IgnaciioDev/IgnaciioDev/blob/main/Banner-Github.jpg" alt="banner">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=icastroo&label=Profile%20views&color=0e75b6&style=flat" alt="icastroo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=icastroo&label=Profile%20views&color=0e75b6&style=flat" alt="IgnaciioDev" /> </p>
 
 <h3 align="left">📫 Connect with me:</h3>
 <div align = "left">
