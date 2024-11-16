@@ -18,7 +18,8 @@
 
 <h3 align="left">📊 Github Stats</h2>
 
-![Icastroo GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnaciioDev&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IgnaciioDev&theme=dark)](https://git.io/streak-stats)
+
 
 
 
