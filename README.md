@@ -26,7 +26,7 @@
 <br/>
 
 
-<h3 align="left">📊  Ultimos Proyectos 💻 </h2>
+<h3 align="left">📚  Ultimos Proyectos 💻 </h2>
 
 
 <p align="left">
