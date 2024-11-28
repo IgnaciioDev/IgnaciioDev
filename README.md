@@ -21,6 +21,10 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Visual](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=Git&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <br/>
@@ -31,19 +35,19 @@
 
 <p align="left">
   <a href="https://github.com/IgnaciioDev/Factorial-Calculator-Design" title="Factorial Calculator Design | IgnaciioDev">
-      <img width="49.40%" height="245px" src="https://raw.githubusercontent.com/IgnaciioDev/Factorial-Calculator-Design/refs/heads/main/image/factorial-image.png">
+      <img width="49%" height="245px" src="https://raw.githubusercontent.com/IgnaciioDev/Factorial-Calculator-Design/refs/heads/main/image/factorial-image.png">
   </a>
   <a href="https://github.com/IgnaciioDev/Juego-del-ahorcado-Alura-Challenges-Oracle-ONE" title="Juego del Ahorcado | IgnaciioDev">
-      <img width="49.40%" height="245px" src="https://user-images.githubusercontent.com/107725949/267949679-f0168722-c1ef-4b71-ac88-26500a1c7667.png">
+      <img width="49%" height="245px" src="https://user-images.githubusercontent.com/107725949/267949679-f0168722-c1ef-4b71-ac88-26500a1c7667.png">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/IgnaciioDev/Sunnyside-agency-landing-page" title="Sunnyside agency | IgnaciioDev">
-      <img width="49.40%" height="245px" src="https://raw.githubusercontent.com/IgnaciioDev/Sunnyside-agency-landing-page/refs/heads/main/images/desktop/image-portada.png">
+      <img width="49%" height="245px" src="https://raw.githubusercontent.com/IgnaciioDev/Sunnyside-agency-landing-page/refs/heads/main/images/desktop/image-portada.png">
   </a>
   <a href="https://github.com/IgnaciioDev/portfolio2024" title="Portfolio | IgnaciioDev">
-      <img width="49.40%" height="245px" src="https://raw.githubusercontent.com/IgnaciioDev/portfolio2024/refs/heads/main/img/imagen-portada.png">
+      <img width="49%" height="245px" src="https://raw.githubusercontent.com/IgnaciioDev/portfolio2024/refs/heads/main/img/proyectos/portfolio-image.png">
   </a>
 </p>
 
