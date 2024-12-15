@@ -35,19 +35,19 @@
 
 <p align="left">
   <a href="https://github.com/IgnaciioDev/Factorial-Calculator-Design" title="Factorial Calculator Design | IgnaciioDev">
-      <img width="49%" height="245px" src="https://raw.githubusercontent.com/IgnaciioDev/Factorial-Calculator-Design/refs/heads/main/image/factorial-image.png">
+      <img width="45%" height="25.31%." src="https://raw.githubusercontent.com/IgnaciioDev/Factorial-Calculator-Design/refs/heads/main/image/factorial-image.png">
   </a>
   <a href="https://github.com/IgnaciioDev/Juego-del-ahorcado-Alura-Challenges-Oracle-ONE" title="Juego del Ahorcado | IgnaciioDev">
-      <img width="49%" height="245px" src="https://user-images.githubusercontent.com/107725949/267949679-f0168722-c1ef-4b71-ac88-26500a1c7667.png">
+      <img width="45%" height="25.31%." src="https://user-images.githubusercontent.com/107725949/267949679-f0168722-c1ef-4b71-ac88-26500a1c7667.png">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/IgnaciioDev/Sunnyside-agency-landing-page" title="Sunnyside agency | IgnaciioDev">
-      <img width="49%" height="245px" src="https://raw.githubusercontent.com/IgnaciioDev/Sunnyside-agency-landing-page/refs/heads/main/images/desktop/image-portada.png">
+      <img width="45%" height="25.31%." src="https://raw.githubusercontent.com/IgnaciioDev/Sunnyside-agency-landing-page/refs/heads/main/images/desktop/image-portada.png">
   </a>
   <a href="https://github.com/IgnaciioDev/portfolio2024" title="Portfolio | IgnaciioDev">
-      <img width="49%" height="245px" src="https://raw.githubusercontent.com/IgnaciioDev/portfolio2024/refs/heads/main/img/proyectos/portfolio-image.png">
+      <img width="45%" height="25.31%." src="https://raw.githubusercontent.com/IgnaciioDev/portfolio2024/refs/heads/main/img/proyectos/portfolio-image.png">
   </a>
 </p>
 
